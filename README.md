@@ -1,4 +1,9 @@
 <div align='center'> 
+
+  ## 😀 About Me
+  기계공학을 전공하고, 개발을 공부 중인 주니어 개발자입니다! <br><br>
+<span> ✅ 도약 : 2023.10 ~ ing </span><br><br>
+
   
   ## ⚒️ Tech Stacks 
 

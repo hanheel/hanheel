@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=Hi!%20I'm%20Hanhee&fontSize=60" />
 
   ## 😀 About Me
-  기계공학을 전공하고, 개발을 공부 중인 주니어 개발자입니다! <br><br>
+  기계공학을 전공하고, 개발을 공부 중인 개발자 지망생입니다! <br><br>
 <span> ✅ 도약 : 2023.10 ~ ing </span><br><br>
 
   
